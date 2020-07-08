@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1038920745874",
+    "firebase_url": "https://flash-chat-b2d30.firebaseio.com",
+    "project_id": "flash-chat-b2d30",
+    "storage_bucket": "flash-chat-b2d30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038920745874:android:16a3dc1d184a5935fd774b",
+        "android_client_info": {
+          "package_name": "co.pinkmilkdevs.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038920745874-49f7pp00vghq4gtbcrps2g9vs7u1mdsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUfPIj79HIDUtmH0e7ktTlNjr_IHQajGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038920745874-49f7pp00vghq4gtbcrps2g9vs7u1mdsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
